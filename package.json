@@ -1,0 +1,16 @@
+{
+  "name": "fake_id_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.7.7",
+    "faker-zh-cn": "^0.5.9"
+  }
+}
